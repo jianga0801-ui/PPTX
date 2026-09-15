@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-master="master-unicom" data-pptx-master-name="中国联通母版" data-pptx-layout="ending" data-pptx-layout-name="结尾页">
+<rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<text id="master-copyright" data-pptx-layer="master" data-pptx-editable="false" x="1216" y="702" text-anchor="end" font-size="13" fill="#A0A0A0">© CHINAUNICOM</text>
+<image id="ending-logo" data-pptx-layer="layout" data-pptx-editable="false" href="../images/unicom-logo.png" x="540" y="120" width="200" height="135" preserveAspectRatio="none"/>
+<rect id="ending-accent" x="560" y="300" width="160" height="8" fill="#CC0000" data-pptx-role="decoration"/>
+<g id="thank-slot" data-pptx-placeholder="body" data-pptx-idx="1" data-pptx-bounds="240 330 800 90">
+<text id="thank-carrier" data-pptx-carrier="true" x="640" y="400" text-anchor="middle" font-size="60" font-weight="bold" fill="#CC0000">{{THANK_YOU}}</text>
+</g>
+<g id="contact-slot" data-pptx-placeholder="body" data-pptx-idx="2" data-pptx-bounds="340 450 600 40">
+<text id="contact-carrier" data-pptx-carrier="true" x="640" y="478" text-anchor="middle" font-size="18" fill="#808080">{{CONTACT_INFO}}</text>
+</g>
+</svg>

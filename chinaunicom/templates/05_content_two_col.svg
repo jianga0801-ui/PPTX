@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-master="master-unicom" data-pptx-master-name="中国联通母版" data-pptx-layout="content-two-col" data-pptx-layout-name="内容页-双栏图文">
+<rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<text id="master-copyright" data-pptx-layer="master" data-pptx-editable="false" x="1216" y="702" text-anchor="end" font-size="13" fill="#A0A0A0">© CHINAUNICOM</text>
+<rect id="header-accent" data-pptx-layer="layout" data-pptx-editable="false" x="64" y="48" width="8" height="40" fill="#CC0000"/>
+<g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="88 40 1104 56">
+<text id="title-carrier" data-pptx-carrier="true" x="88" y="80" font-size="32" font-weight="bold" fill="#000000">{{PAGE_TITLE}}</text>
+</g>
+<g id="body-slot" data-pptx-placeholder="body" data-pptx-bounds="64 128 656 520">
+<text id="body-carrier" data-pptx-carrier="true" x="64" y="162" font-size="20" fill="#333333">{{CONTENT_AREA}}</text>
+</g>
+<g id="image-slot" data-pptx-placeholder="picture" data-pptx-bounds="744 128 472 520">
+<image id="image-carrier" data-pptx-carrier="true" href="../images/visual-red-pattern.png" x="744" y="128" width="472" height="520" preserveAspectRatio="xMidYMid slice"/>
+</g>
+<g id="page-num-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1080 660 136 30">
+<text id="page-num-carrier" data-pptx-carrier="true" x="1216" y="682" text-anchor="end" font-size="14" fill="#808080">- {{PAGE_NUM}} -</text>
+</g>
+</svg>

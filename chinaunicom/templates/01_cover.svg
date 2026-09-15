@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-master="master-unicom" data-pptx-master-name="中国联通母版" data-pptx-layout="cover" data-pptx-layout-name="封面">
+<rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<text id="master-copyright" data-pptx-layer="master" data-pptx-editable="false" x="1216" y="702" text-anchor="end" font-size="13" fill="#A0A0A0">© CHINAUNICOM</text>
+<image id="cover-logo" data-pptx-layer="layout" data-pptx-editable="false" href="../images/unicom-logo.png" x="1058" y="24" width="198" height="134" preserveAspectRatio="none"/>
+<g id="hero-slot" data-pptx-placeholder="picture" data-pptx-bounds="0 180 1280 360">
+<image id="hero-carrier" data-pptx-carrier="true" href="../images/cover-hero-red.jpg" x="0" y="180" width="1280" height="360" preserveAspectRatio="none"/>
+</g>
+<g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="80 260 1120 120">
+<text id="title-carrier" data-pptx-carrier="true" x="640" y="348" text-anchor="middle" font-size="60" font-weight="bold" fill="#FFFFFF">{{TITLE}}</text>
+</g>
+<g id="subtitle-slot" data-pptx-placeholder="subtitle" data-pptx-bounds="240 404 800 56">
+<text id="subtitle-carrier" data-pptx-carrier="true" x="640" y="440" text-anchor="middle" font-size="28" fill="#FFFFFF">{{SUBTITLE}}</text>
+</g>
+<g id="date-slot" data-pptx-placeholder="date" data-pptx-bounds="440 476 400 40">
+<text id="date-carrier" data-pptx-carrier="true" x="640" y="503" text-anchor="middle" font-size="20" fill="#FFFFFF">{{DATE}}</text>
+</g>
+<g id="star-cover-1" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star4" data-pptx-frame="1128 498 56 42" fill="#FFFFFF" stroke="none" fill-opacity="0.9">
+<path d="M 1128 519 L 1151.05 515.29 L 1156 498 L 1160.95 515.29 L 1184 519 L 1160.95 522.71 L 1156 540 L 1151.05 522.71 Z"/>
+</g>
+<g id="star-cover-2" data-pptx-authoring="preset" data-pptx-object="shape" data-pptx-prst="star4" data-pptx-frame="1186 452 40 30" fill="#FFFFFF" stroke="none" fill-opacity="0.75">
+<path d="M 1186 467 L 1202.46 464.35 L 1206 452 L 1209.54 464.35 L 1226 467 L 1209.54 469.65 L 1206 482 L 1202.46 469.65 Z"/>
+</g>
+</svg>

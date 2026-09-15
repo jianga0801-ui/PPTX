@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720" font-family="Microsoft YaHei" data-pptx-master="master-unicom" data-pptx-master-name="中国联通母版" data-pptx-layout="toc" data-pptx-layout-name="目录">
+<rect id="master-bg" data-pptx-layer="master" data-pptx-editable="false" x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<text id="master-copyright" data-pptx-layer="master" data-pptx-editable="false" x="1216" y="702" text-anchor="end" font-size="13" fill="#A0A0A0">© CHINAUNICOM</text>
+<rect id="header-accent" data-pptx-layer="layout" data-pptx-editable="false" x="64" y="48" width="8" height="40" fill="#CC0000"/>
+<g id="title-slot" data-pptx-placeholder="title" data-pptx-bounds="88 40 1104 56">
+<text id="title-carrier" data-pptx-carrier="true" x="88" y="80" font-size="32" font-weight="bold" fill="#000000">{{PAGE_TITLE}}</text>
+</g>
+<g id="toc-item-1" data-pptx-bounds="237 160 806 98">
+<rect x="237" y="160" width="200" height="98" fill="#CC0000"/>
+<text x="337" y="218" text-anchor="middle" font-size="28" font-weight="bold" fill="#FFFFFF">第一部分</text>
+<rect x="457" y="160" width="586" height="98" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="485" y="202" font-size="24" font-weight="bold" fill="#000000">{{TOC_ITEM_1_TITLE}}</text>
+<text x="485" y="236" font-size="16" fill="#808080">{{TOC_ITEM_1_DESC}}</text>
+</g>
+<g id="toc-item-2" data-pptx-bounds="237 278 806 98">
+<rect x="237" y="278" width="200" height="98" fill="#E08E79"/>
+<text x="337" y="336" text-anchor="middle" font-size="28" font-weight="bold" fill="#FFFFFF">第二部分</text>
+<rect x="457" y="278" width="586" height="98" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="485" y="320" font-size="24" font-weight="bold" fill="#000000">{{TOC_ITEM_2_TITLE}}</text>
+<text x="485" y="354" font-size="16" fill="#808080">{{TOC_ITEM_2_DESC}}</text>
+</g>
+<g id="toc-item-3" data-pptx-bounds="237 396 806 98">
+<rect x="237" y="396" width="200" height="98" fill="#CC0000"/>
+<text x="337" y="454" text-anchor="middle" font-size="28" font-weight="bold" fill="#FFFFFF">第三部分</text>
+<rect x="457" y="396" width="586" height="98" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="485" y="438" font-size="24" font-weight="bold" fill="#000000">{{TOC_ITEM_3_TITLE}}</text>
+<text x="485" y="472" font-size="16" fill="#808080">{{TOC_ITEM_3_DESC}}</text>
+</g>
+<g id="toc-item-4" data-pptx-bounds="237 514 806 98">
+<rect x="237" y="514" width="200" height="98" fill="#E08E79"/>
+<text x="337" y="572" text-anchor="middle" font-size="28" font-weight="bold" fill="#FFFFFF">第四部分</text>
+<rect x="457" y="514" width="586" height="98" fill="#FFFFFF" stroke="#A0A0A0" stroke-width="2"/>
+<text x="485" y="556" font-size="24" font-weight="bold" fill="#000000">{{TOC_ITEM_4_TITLE}}</text>
+<text x="485" y="590" font-size="16" fill="#808080">{{TOC_ITEM_4_DESC}}</text>
+</g>
+<g id="page-num-slot" data-pptx-placeholder="slide-number" data-pptx-bounds="1080 660 136 30">
+<text id="page-num-carrier" data-pptx-carrier="true" x="1216" y="682" text-anchor="end" font-size="14" fill="#808080">- {{PAGE_NUM}} -</text>
+</g>
+</svg>
